@@ -2,5 +2,8 @@
 You may ask yourself what is the Difference between those methods. "see the Results and judge".
 MSA and VJM on MATLAB 
 FEA on Fusion360.
-See the CAD Model on GrabCad " https://grabcad.com/library/rrr_robot-1"
+See the CAD Model on GrabCad " https://grabcad.com/library/rrr_robot-1".
+
+
+
 ![](RRR_iu v3.png)
