@@ -5,5 +5,5 @@ FEA on Fusion360.
 See the CAD Model on GrabCad " https://grabcad.com/library/rrr_robot-1".
 
 
-![](3.JPG)
-![](RRR_iu v3.png)
+![](photos/4.jpg)
+![](photos/RRR_iu v3.png)
