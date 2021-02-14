@@ -6,4 +6,4 @@ See the CAD Model on GrabCad " https://grabcad.com/library/rrr_robot-1".
 
 
 ![](photos/4.jpg)
-![](photos/RRR_iu v3.png)
+
