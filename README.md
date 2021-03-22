@@ -9,4 +9,7 @@ See the CAD Model on GrabCad " https://grabcad.com/library/rrr_robot-1".
 
 
 FEA Result 
+
+
+
 ![](photos/1.JPG)
